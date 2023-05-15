@@ -1,0 +1,40 @@
+table, tr, td {
+  border: 2px solid #000;
+  text-align: center;
+}
+
+td {
+  width: 200px;
+  height: 60px;  
+  padding: 5px;
+}
+
+tr {
+  padding: 5px;
+}
+
+table{
+  background-image: linear-gradient(rgb(128, 128, 128), rgb(255, 255, 255), rgb(0, 0, 255));
+}
+
+#line-1 {
+  background-color: #fa4e4ec7;
+}
+
+#line-2 {
+  background-color: #fbff01;
+}
+
+#line-3 {
+  background-color: #2b88f3;
+}
+
+#line-4 {
+  background-color: #66ff00;
+}
+
+.centro {
+  display: flex;
+  justify-content: center;
+  margin-top: 30vh;
+}

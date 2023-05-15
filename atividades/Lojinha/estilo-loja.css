@@ -1,0 +1,7 @@
+.end-page {
+  background-image: linear-gradient(to right, grey, white, grey, yellow);
+}
+
+footer {
+  background-image: linear-gradient(to right, blue, blue, white);
+}
