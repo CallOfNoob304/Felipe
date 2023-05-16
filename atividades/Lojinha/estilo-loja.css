@@ -1,7 +1,7 @@
 .end-page {
-  background-image: linear-gradient(to right, grey, white, grey, yellow);
+  background-image: linear-gradient(to right, #808080, #fff, #c5bbbb, #ffff00);
 }
 
 footer {
-  background-image: linear-gradient(to right, blue, blue, white);
+  background-image: linear-gradient(to right, #5b93fc, #00eeff, #fff);
 }
